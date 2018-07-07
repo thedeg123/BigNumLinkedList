@@ -4,6 +4,7 @@
 ###### By David Gold
 ### Compile With:
 make
+### Run:
 `additup` - adds any input to a running total. White spaces and letters are ignored. 
 ###### Ex:
   "123askjhfkasjhfkjash123" will add 123123 to running total.
